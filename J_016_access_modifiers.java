@@ -14,7 +14,7 @@ class Employee{
     }
 } 
 
-public class J_051_access_modifiers {
+public class J_016_access_modifiers {
     public static void main(String[] args) {
         Employee mayur = new Employee();
 

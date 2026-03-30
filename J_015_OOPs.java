@@ -10,7 +10,7 @@ class Employee{
     }
 }
 
-public class J_050_OOPs {
+public class J_015_OOPs {
     public static void main(String[] args) {
         System.out.println("This is our custom class");
         Employee Mayur = new Employee();
