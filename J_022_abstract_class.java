@@ -26,7 +26,7 @@ abstract class child2 extends parent{
         System.out.println("Child 2 constructor is called.");
     }
 
-    //! If we will not override here it will also works but, If we create a another class which extensds this than it is necessary to override it.
+    //! If we will not override here it will also works but, If we create a another class which extends this than it is necessary to override it.
     @Override
     public void name() {
         System.out.println("My name is Child 2.");
@@ -35,7 +35,10 @@ abstract class child2 extends parent{
 
 public class J_022_abstract_class {
     public static void main(String[] args) {
-        child1 a = new child1();
+        // child1 a = new child1();
+        // a.name();
+        
+        parent a = new child1();
         a.name();
     }
 }

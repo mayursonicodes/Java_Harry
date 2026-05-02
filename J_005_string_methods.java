@@ -23,7 +23,7 @@ public class J_005_string_methods {
 
         // System.out.println(a.indexOf('M')); //! return the index of first occurance of the character else -1.
         // System.out.println(a.indexOf("Mayur"));
-        // System.out.println(a.indexOf('a', 10)); //! search starts form index 10.
+        // System.out.println(a.indexOf('a', 10)); //! search starts from index 10.
 
         // System.out.println(a.lastIndexOf('a')); //! search starts from end.
         // System.out.println(a.lastIndexOf('a', 10)); //! search starts from index 10 and goes to start(index 0).
