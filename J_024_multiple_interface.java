@@ -8,7 +8,7 @@
 //! interface A implements class B; ❌
 //! interface A implements interface B; ❌
 
-//todo [J_024.png]
+//! [J_024.png]
 
 interface Bicycle{
     int a = 10;

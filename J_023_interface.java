@@ -1,4 +1,5 @@
 //! Interface is a group of methods with empty bodies and need to be overridden in child class.
+//! Interface can't have methods with defination.
 //! Interface can have methods with definations but with special keywords like default, static, or private.
 //! Interface supports multiple inheritance.
 //! Methods in interfaces are by default: public & abstracted.
