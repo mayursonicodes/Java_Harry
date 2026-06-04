@@ -1,6 +1,7 @@
 //! We can not create object of abstract class but we can create reference and than points to the derived class.
 //! We can create an abstract class from abstract class also.
 //! An abstract class must contain at least 1 abstract method.
+//! abstract class can have methods with defination also.
 
 abstract class parent{
     parent(){
