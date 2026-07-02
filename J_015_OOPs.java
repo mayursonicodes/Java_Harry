@@ -1,6 +1,9 @@
-//! Only 1 class can be public in java
+//! Only 1 class can be public per file.
 
-// public class Employee{ //! Give error because of upper statement
+//! Give error
+//! To use it as a public, then make a another file named as "Employee.java" and then make it public there and import it here.
+// public class Employee{
+
 class Employee{
     int id;
     String name;
